@@ -18,7 +18,7 @@ Weight lifting is a challenging and greatly beneficial form of exercise. However
 *Dataset and publication*: http://groupware.les.inf.puc-rio.br/har#weight_lifting_exercises
 
 
-### Predicting Cost and Production of a Photovoltaic Installation 
+### Predicting Cost and Energy Production of a Photovoltaic Installation 
 Solar energy is underutilized and perhaps misunderstood by the general public in the United States. It can provide us with clean and stable production of energy should we choose to embrace its pursuit. To enable greater understanding of solar energy's potential , we can use data to predict cost and energy production of photovoltaic installations. However, the cost and sizing can be a great deterrence for most potential clients; therefore, they should be appropriately educated before making this important decision.
 
 *Dataset*: https://openpv.nrel.gov/search

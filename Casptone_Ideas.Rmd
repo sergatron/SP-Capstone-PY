@@ -2,9 +2,7 @@
 title: "Capstone Project Ideas"
 author: "Sergey Mouzykin"
 date: "February 10, 2018"
-output:
-  html_document: default
-  pdf_document: default
+output: html_document
 ---
 
 

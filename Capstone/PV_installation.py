@@ -1,22 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
-
-This is a temporary script file.
+Data Wrangling Code 
 """
 
-## NOTES:
-# 1. double check to make sure th data was imported correctly
-# 2. look into adding meta-data for incentives(local and states' gov't)
-# 3. explore data with numerous missing values. Are they for the same city or state?
-# 4. focus on major cities when building a model or exploring incentives
-# 5. How long would it take to break even on investment?
-
-
-# APRIL 2
-# TOPICS:
-# zipcode format
-#
 
 import pandas as pd
 import numpy as np
@@ -33,20 +19,6 @@ from pandas.io.json import json_normalize
 #, index_col='date_installed', parse_dates=True
 # infer_datetime_format=True
 pv_df_orig = pd.read_csv('openpv_all.csv', sep=',', low_memory=False)
-
-# =============================================================================
-# Data Wrangling
-# =============================================================================
-#   Formating time
-# year, month, day
-# format='%Y%m%d'
-
-# Exclude empty columns
-# Recode data types
-# Deal with duplicate and missing data
-# Deal with outliers
-# States column contains 55
-# convert to lower case
 
 
 
